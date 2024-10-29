@@ -11,7 +11,7 @@ This tool solves these glaring errors, by providing shorter command name, and co
 
 ## Installation
 
-pip install nchd
+`pip install nchd`
 
 ## Usage
 
