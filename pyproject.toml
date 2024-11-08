@@ -28,7 +28,7 @@ dependencies = [
 
 
 [project.urls]
-homepage = "https://github.com/charles-turner-1/ExcellAint"
+homepage = "https://github.com/charles-turner-1/nchd"
 
 [project.scripts]
 nchd = "nchd.nchd:main"
